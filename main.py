@@ -22,3 +22,6 @@ src="https://www.googletagmanager.com/gtag/js?id=UA-250950046-4"></script>
  """
 
  return prefix_google + "Hello World1234"
+ 
+if __name__ == '__main__':
+    app.run()
