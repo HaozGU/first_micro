@@ -8,7 +8,7 @@ app = Flask(__name__)
 def hello_world():
     return "Hello World"
     
-def hello_world():
+def hello_world_google_tag():
  prefix_google = """
  <!-- Google tag (gtag.js) -->
 <script async
