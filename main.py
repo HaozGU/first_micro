@@ -1,14 +1,7 @@
 from flask import Flask
-import logging
 
 app = Flask(__name__)
-logging.basicConfig(level=logging.DEBUG)
 
-@app.route('/logger', methods=['GET'])
-def logger():
-    logging.info('This is a log message')
-    return 'This is a log message'
-    
 @app.route('/', methods=["GET"])
 # def hello_world():
 #     return "Hello World"
