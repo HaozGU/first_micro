@@ -20,5 +20,12 @@ src="https://www.googletagmanager.com/gtag/js?id=UA-250950046-4"></script>
  """
  return prefix_google + "Hello World"
 
-# if __name__ == '__main__':
-#     app.run()
+@app.route('/logger', methods=["GET"])
+def logger():
+    print("This is a log message on the Python console")
+    script = """
+    <script>
+    console.log("This is a log message displayed on the browser")
+    </script>
+    """
+    return script
