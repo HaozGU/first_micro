@@ -1,4 +1,5 @@
 from flask import Flask
+import requests
 
 app = Flask(__name__)
 
@@ -29,3 +30,14 @@ def logger():
     </script>
     """
     return script
+
+@app.route('/cookie', methods=["GET"])
+def cookie():
+    req = requests.get("https://www.google.com/")
+    return req.cookies.get_dict()
+
+@app.route('/report', methods=["GET"])
+def report():
+    req = requests.get("https://analytics.google.com/analytics/web/#/reporthome/a164062586w272485488p243020933")
+    return req.text
+
