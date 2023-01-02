@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "digital-trace-lab",
+  "private_key_id": "774d1ef2433e197bf6ea539cef195bed61dafb65",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCvhvou3W2fuUwl\nmgE5NU5JKYyxQHlhVLMmwrL+7oVae2X9aQq0Fa9lAMaUL7s/0fNWYZ4QGHOrR4cO\nvr+6erAfigbjK3iSSsyx4KJY/A9AGwm2z0EbXMBU5somG/7jv3yEY8PmG1TFWDT+\n1/bR0pPsY3jSOio/AGje9scuK2WpWeKG6eddv8vQgvvJr9HidUt2tN/+nFhcP15/\nzz5iJRIRGCLV8KvUmLTXVQ4o7dbr8DHA5fVONKVX9WRsB/g25ciOfiUJwTOlRRDj\nsrjk0PH/oi4PjBybs8NcYqJm1PQLXR4YNyFRE/7UYv9vVVSm6MEJgopP5SpHfzgr\n4kbc1Ku7AgMBAAECggEACLDfgAFRRywIoh2LJhNi/op9gySWmmstCFYAXTR72Upz\naLeneBLfdtoVewPdyR/ID9MJa6p88QQQ6ggntRxpQCkxWjhDof3QeAfIuSymtjZA\ngmE0kx3egLWsAzwLg+FuJp32oVTvqU4Dtp89Zp2pvllyvGrmvuzVxHamJKE/kGyV\n5hMbg3We+qigdFvbrQr4riBal1yEya8/3x/dzfg+AZP1rq4aZIUXzRXoWNmGYkDd\nDjp/0ub8uzvg8uuCWMNk9qAZ/Dx4PhNYEdVbhB7I+5/uG0kB5wgma93YUMSVivKG\naaOe8s1pKwB0t5QN2+vac6Bghc6HqBk6acgW5Z9XuQKBgQDnmisPNyviDhEUgSRp\nWBY1PS0dBLlUVvyjW5fsbtBxCEgoG3GpC7n66u28RUK94fWKWceOaC7I+HQOiMZ5\nzyFcaX0ltmIpsDHhCl+vps7QblrdKSDUYkQ4JRwjmBM34rjG6fUtC1GWj9vQGEmW\nbUr0up4IUAbPUelt7jRm5wWJ+QKBgQDCBJVhMaJLOL1MNZBc13WLbtPyACrkXC3a\n9CFVF8MG7uUMoD32jjKMyH3FG7axrEaBjb/jv5hy9dn4JjdsOtz1HfAdUUIDQbdO\nR0iYRC12AavhcH9OTgE9MMJIzBUWDJzISAEjNeMNqazgxQsuv7PrdX0ZcKP161V4\nYGnSIgxwUwKBgGgxp6WUwJ1WjsCWyPbLtlIFT8J6WZZj/AzSLCsmP4hanXvNvPi8\nWdNU1deZoUkj2v9/HJQossOfYzcWuZQbZ3rXyoGo58ixh/8iV6ICfZCv1RkiY66o\n9t/7cglhZWQDD/YNU0wMh4wg9FdOVezjBpHLU0WSGz4yL75RKCoTTR6hAoGBAKsJ\n/WKMrgVgRMkdY2Hlc7NzBZeO/EEK3kXq+EOaygyfp/8EePuVigzAZtfQQbPKKvHl\nM6gkbNHT2M9BaZSZI9dXCCngS7CxS1bP0rihSe6BNLRuR1yRudfm1y/z8hbZEZIi\noBYZWEvgLA6Oxvf0ejl1/s3hljmiuFuBq2hbKdoPAoGAZDmaF/bOSfOCZ7+fvJ0l\nhn7jpjkIcYmp0HLuJuv31RgvdQudMTBn5SgmQv5aAccwW9azSQCLgQbrp4jnGooA\n0bXjonMCgR/wDef04Y/C8UlSTzkS8aX5igxUsYMJ8lW0is1ySYLuGLBV9Htdve5V\ntOtfVVYaLpyTUP91LlG9SKo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "haozhougu@digital-trace-lab.iam.gserviceaccount.com",
+  "client_id": "105024136467185929829",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/haozhougu%40digital-trace-lab.iam.gserviceaccount.com"
+}
