@@ -47,7 +47,7 @@ def report():
 # Set the scopes and key file location for the Analytics API
 VIEW_ID = '281161150'
 SCOPES = ['https://www.googleapis.com/auth/analytics.readonly']
-KEY_FILE_LOCATION = 'D:\5A s1\Data source\first_micro\digital-trace-lab-774d1ef2433e.json'
+KEY_FILE_LOCATION = 'digital-trace-lab-774d1ef2433e.json'
 
 
 @app.route('/OAuth', methods=["GET"])
